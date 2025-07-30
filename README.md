@@ -33,7 +33,6 @@ Isso gerará um arquivo `<ARQUIVO>.dec` que será idêntico ao arquivo original.
 
 ## Notas Importantes
 
-* O programa pode não funcionar corretamente com arquivos codificados em UTF-8, pois escreve os bytes usando codificação ASCII.
 * Modificar o arquivo `.hamming` diretamente em um editor de código pode introduzir bytes adicionais, já que alguns editores podem escrever um caractere de 2 bytes em vez de 1.
 * Este programa foi projetado para codificação Unix, portanto codificar um arquivo com codificação do Windows pode gerar pequenas alterações.
 
