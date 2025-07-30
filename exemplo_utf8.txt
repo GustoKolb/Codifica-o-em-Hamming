@@ -1,0 +1,15 @@
+
+Este é um exemplo de arquivo UTF-8 com diversos tipos de caracteres:
+
+— Acentos em português: á, é, í, ó, ú, ç, ã, õ
+— Símbolos matemáticos: ∑, ∫, √, π, ∞
+— Emojis: 😀, 🚀, 🧠, 💻, 🔥
+— Caracteres de outras línguas:
+    • Japonês: こんにちは (Konnichiwa)
+    • Árabe: مرحبا (Marhaban)
+    • Russo: Привет (Privet)
+    • Grego: Γειά σου (Geiá sou)
+
+Este arquivo demonstra a versatilidade da codificação UTF-8, que suporta praticamente todos os caracteres usados pelas línguas humanas modernas e símbolos técnicos.
+
+— Fim do arquivo —
