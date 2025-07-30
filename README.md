@@ -33,7 +33,7 @@ Isso gerará um arquivo `<ARQUIVO>.dec` que será idêntico ao arquivo original.
 
 ## Notas Importantes
 
-* Modificar o arquivo `.hamming` diretamente em um editor de código pode introduzir bytes adicionais, já que alguns editores podem escrever um caractere de 2 bytes em vez de 1.
+* Modificar o arquivo `.hamming` diretamente em um editor de código pode introduzir bytes adicionais, já que alguns editores podem escrever um caractere de 2 bytes em vez de 1. Para o vim, por exemplo, use a opção -b para editar em binário.
 * Este programa foi projetado para codificação Unix, portanto codificar um arquivo com codificação do Windows pode gerar pequenas alterações.
 
 ## Testando a Correção de Erros
